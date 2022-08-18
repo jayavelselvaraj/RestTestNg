@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6490" started-at="2022-08-17T22:51:52Z" finished-at="2022-08-17T22:51:58Z">
+  <suite name="Default suite" duration-ms="3340" started-at="2022-08-18T21:31:21Z" finished-at="2022-08-18T21:31:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6490" started-at="2022-08-17T22:51:52Z" finished-at="2022-08-17T22:51:58Z">
-      <class name="org.petstore.TestNgModelApi">
-        <test-method status="PASS" signature="addpet()[pri:1, instance:org.petstore.TestNgModelApi@62ee68d8]" name="addpet" duration-ms="3881" started-at="2022-08-18T04:21:52Z" finished-at="2022-08-18T04:21:55Z">
+    <test name="Default test" duration-ms="3340" started-at="2022-08-18T21:31:21Z" finished-at="2022-08-18T21:31:25Z">
+      <class name="org.jiratestng.JiraTestNg">
+        <test-method status="PASS" signature="createsession()[pri:1, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createsession" duration-ms="2347" started-at="2022-08-19T03:01:21Z" finished-at="2022-08-19T03:01:24Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addpet -->
-        <test-method status="PASS" signature="update()[pri:2, instance:org.petstore.TestNgModelApi@62ee68d8]" name="update" duration-ms="1242" started-at="2022-08-18T04:21:55Z" finished-at="2022-08-18T04:21:57Z">
+        </test-method> <!-- createsession -->
+        <test-method status="PASS" signature="createissue()[pri:2, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createissue" duration-ms="864" started-at="2022-08-19T03:01:24Z" finished-at="2022-08-19T03:01:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- update -->
-        <test-method status="PASS" signature="getid()[pri:3, instance:org.petstore.TestNgModelApi@62ee68d8]" name="getid" duration-ms="1333" started-at="2022-08-18T04:21:57Z" finished-at="2022-08-18T04:21:58Z">
+        </test-method> <!-- createissue -->
+        <test-method status="PASS" signature="addcomment()[pri:3, instance:org.jiratestng.JiraTestNg@548a9f61]" name="addcomment" duration-ms="94" started-at="2022-08-19T03:01:25Z" finished-at="2022-08-19T03:01:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getid -->
-      </class> <!-- org.petstore.TestNgModelApi -->
+        </test-method> <!-- addcomment -->
+      </class> <!-- org.jiratestng.JiraTestNg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

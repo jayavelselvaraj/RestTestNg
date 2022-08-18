@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="org.petstore.TestNgModelApi">
+      <class name="org.jiratestng.JiraTestNg">
         <methods>
-          <include name="getid"/>
+          <include name="createissue"/>
         </methods>
-      </class> <!-- org.petstore.TestNgModelApi -->
+      </class> <!-- org.jiratestng.JiraTestNg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
