@@ -5,7 +5,7 @@
     <classes>
       <class name="org.jiratestng.JiraTestNg">
         <methods>
-          <include name="createissue"/>
+          <include name="Addattachement"/>
         </methods>
       </class> <!-- org.jiratestng.JiraTestNg -->
     </classes>
