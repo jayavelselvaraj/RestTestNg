@@ -82,11 +82,11 @@ public static String id;
 		System.out.println("msg:"+message);
 			System.out.println(ids);
 			
-			if (ids.equals("10030") ) {
+		/*if (ids.equals("10034") ) {
 			String message1=	jp.get("comments["+i+"].body");
 				System.out.println("msg:"+message);
 				
-			}
+			}*/
 		}
 		
 	}

@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4609" started-at="2022-08-19T23:44:09Z" finished-at="2022-08-19T23:44:14Z">
+  <suite name="Default suite" duration-ms="4298" started-at="2022-08-21T10:40:38Z" finished-at="2022-08-21T10:40:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4609" started-at="2022-08-19T23:44:09Z" finished-at="2022-08-19T23:44:14Z">
+    <test name="Default test" duration-ms="4298" started-at="2022-08-21T10:40:38Z" finished-at="2022-08-21T10:40:42Z">
       <class name="org.jiratestng.JiraTestNg">
-        <test-method status="PASS" signature="createsession()[pri:1, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createsession" duration-ms="2731" started-at="2022-08-20T05:14:09Z" finished-at="2022-08-20T05:14:12Z">
+        <test-method status="PASS" signature="createsession()[pri:1, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createsession" duration-ms="2554" started-at="2022-08-21T16:10:38Z" finished-at="2022-08-21T16:10:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createsession -->
-        <test-method status="PASS" signature="createissue()[pri:2, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createissue" duration-ms="939" started-at="2022-08-20T05:14:12Z" finished-at="2022-08-20T05:14:13Z">
+        <test-method status="PASS" signature="createissue()[pri:2, instance:org.jiratestng.JiraTestNg@548a9f61]" name="createissue" duration-ms="817" started-at="2022-08-21T16:10:41Z" finished-at="2022-08-21T16:10:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createissue -->
-        <test-method status="PASS" signature="addcomment()[pri:3, instance:org.jiratestng.JiraTestNg@548a9f61]" name="addcomment" duration-ms="127" started-at="2022-08-20T05:14:13Z" finished-at="2022-08-20T05:14:13Z">
+        <test-method status="PASS" signature="addcomment()[pri:3, instance:org.jiratestng.JiraTestNg@548a9f61]" name="addcomment" duration-ms="98" started-at="2022-08-21T16:10:41Z" finished-at="2022-08-21T16:10:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcomment -->
-        <test-method status="PASS" signature="Addattachement()[pri:4, instance:org.jiratestng.JiraTestNg@548a9f61]" name="Addattachement" duration-ms="203" started-at="2022-08-20T05:14:13Z" finished-at="2022-08-20T05:14:13Z">
+        <test-method status="PASS" signature="Addattachement()[pri:4, instance:org.jiratestng.JiraTestNg@548a9f61]" name="Addattachement" duration-ms="181" started-at="2022-08-21T16:10:42Z" finished-at="2022-08-21T16:10:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addattachement -->
-        <test-method status="PASS" signature="getcomments()[pri:5, instance:org.jiratestng.JiraTestNg@548a9f61]" name="getcomments" duration-ms="572" started-at="2022-08-20T05:14:13Z" finished-at="2022-08-20T05:14:14Z">
+        <test-method status="PASS" signature="getcomments()[pri:5, instance:org.jiratestng.JiraTestNg@548a9f61]" name="getcomments" duration-ms="604" started-at="2022-08-21T16:10:42Z" finished-at="2022-08-21T16:10:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getcomments -->
